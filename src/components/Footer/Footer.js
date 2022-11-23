@@ -13,13 +13,13 @@ const Footer = () => {
         <LinkColumn>
           <LinkTitle>Call</LinkTitle>
           <LinkItem href='tel:414-388-3430'>
-            <AiFillPhone size='3rem' />
+            <AiFillPhone size='3rem' /> +1 414.388.3430
           </LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
           <LinkItem href='mailto:bentley.shannon@yahoo.com'>
-            <AiFillMessage size='3rem' />
+            <AiFillMessage size='3rem' /> Send Email
           </LinkItem>
         </LinkColumn>
       </LinkList>
