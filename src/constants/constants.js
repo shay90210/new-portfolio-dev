@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
-      image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    title: "The Teachers' Club Bootstrap Site",
+    description: "The website is called The Teachers' Club and it is a simple e-commerce website that allows users to search for and purchase teacher apparel items of their choice.",
+      image: '/images/teachersclub1.png',
+      tags: ['JavaScript', 'Bootstrap', 'SASS'],
+    source: 'https://shay90210.github.io/teachers-club/',
+    visit: 'https://github.com/shay90210/teachers-club',
     id: 0,
   },
   {

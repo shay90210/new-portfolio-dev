@@ -13,7 +13,7 @@ const Hero = () => (
       </SectionTitle>
       <SectionText>
         The purpose of theGlamTechie is to present my learned skills in JavaScript and React to employers and to educate newbies like me on how to get into tech by spreading my joys of learning technology while building functional apps.      </SectionText>
-      <Button onClick={() => window.location = '#contact'}>Contact Me</Button>
+      <Button onClick={() => window.location = '/'}>Learn More</Button>
     </LeftSection>
   </Section>
 );
