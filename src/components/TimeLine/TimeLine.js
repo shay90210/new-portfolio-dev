@@ -42,6 +42,7 @@ const Timeline = () => {
 
   return (
     <Section id='about'>
+      <SectionDivider />
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
         Decided to power through learning how to code in January 2022. Here is my journey! 
