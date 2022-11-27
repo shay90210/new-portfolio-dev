@@ -45,7 +45,22 @@ const Timeline = () => {
       <SectionDivider />
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Decided to power through learning how to code in January 2022. Here is my journey! 
+        <p>
+          I developed a passion to learn how to code sitting in a graduate-level
+          technical writing class. While I loved my career as an educator and healthcare
+          worker, I wanted to try something new that mentally challenged me and peaked my
+          creativity. Programming was the answer. So, I started to build simple websites
+          and learn the basics from tutorials on YouTube, LinkedIn Learning, and Udemy.
+        </p> 
+          <br />
+        <p>
+          My passion pushed me to enroll in Nucamp's 11-month software engineering
+          program to challenge myself and develop projects that improves my abilities as a
+          web and mobile app developer. My long-term goals are to achieve the necessary
+          skills that will compel me to apply for a future Senior Front End Developer
+          position. Until then, my short-term goal is to obtain an apprenticeship or
+          junior-level developer position to continue building my skills.
+        </p>      
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
