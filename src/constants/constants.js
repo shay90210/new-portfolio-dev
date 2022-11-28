@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: "Podcast React Site",
-    description: "This project is my first deployed website called The Teachers' Club. It is an e-commerce website that allows users to search for and purchase teacher apparel items. The project is primarily coded using JavaScript functions to increment/decrement items remove items, and hold items in a basket when the page refreshes.",
+    description: "This project is an introduction into a mobile version that I will create later. For now, this project will incorporate databases to hold already created episodes from anchor.com and HTTP protocols to retrieve the episode data. This project is currently still a work in progress.",
     image: '/images/newhomepagefull.png',
     tags: ['React.js', 'SASS'],
     source: '/',
