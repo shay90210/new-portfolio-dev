@@ -37,7 +37,7 @@ const Footer = () => {
             <SocialIcons href='https://twitter.com/ShannonTatianna'>
               <AiFillTwitterCircle size='3rem' />
             </SocialIcons>
-            <SocialIcons href='https://medium.com/@glamtechie_1991'>
+            <SocialIcons href='https://medium.com/@theGlamTechie_1991'>
               <AiFillMediumCircle size='3rem' />
             </SocialIcons>
           </SocialContainer>
