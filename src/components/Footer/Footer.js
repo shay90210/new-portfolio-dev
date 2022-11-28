@@ -1,5 +1,5 @@
 import React from 'react';
-import { AiFillGithub, AiFillTwitterCircle, AiFillLinkedin, AiFillPhone, AiFillMessage } from 'react-icons/ai';
+import { AiFillGithub, AiFillTwitterCircle, AiFillLinkedin, AiFillMediumCircle, AiFillPhone, AiFillMessage } from 'react-icons/ai';
 import { SectionTitle } from '../../styles/GlobalComponents';
 
 import { SocialIcons } from '../Header/HeaderStyles';
@@ -36,6 +36,9 @@ const Footer = () => {
             </SocialIcons>
             <SocialIcons href='https://twitter.com/ShannonTatianna'>
               <AiFillTwitterCircle size='3rem' />
+            </SocialIcons>
+            <SocialIcons href='https://medium.com/@glamtechie_1991'>
+              <AiFillMediumCircle size='3rem' />
             </SocialIcons>
           </SocialContainer>
       </SocialIconsContainer>
