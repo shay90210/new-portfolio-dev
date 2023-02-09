@@ -29,6 +29,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2015, text: 'Graduated from Marquette University with a Bachelor of Science Degree in Education'},
-  { year: 2022, text: 'Started my tech journey', text: 'Completed Web Development Fundamentals Bootcamp', text: 'Deployed my first website', text:'Completed Front-End & Mobile Development Bootcamp'}
+  { year: 2015, text: 'May - Graduated from Marquette University with a Bachelor of Science Degree in Education'},
+  { year: 2022, text: 'January - Started my tech journey', },
+  { year: 2022, text: 'June - Completed Web Development Fundamentals Bootcamp'},
+  { year: 2022, text: 'September - Deployed my first website'},
+  { year: 2022, text: 'November - Completed Front-End & Mobile Development Bootcamp',},
 ];
