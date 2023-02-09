@@ -31,6 +31,7 @@ export const projects = [
 export const TimeLineData = [
   { month: May, year: 2015, text: 'Graduated from Marquette University with a Bachelor of Science Degree in Education'},
   { month: January, year: 2022, text: 'Started my tech journey', },
+  { month: June, year: 2022, text: 'Completed Web Development Fundamentals Bootcamp'},
   { month: September, year: 2022, text: 'Deployed my first website'},
   { month: November, year: 2022, text: 'Completed Front-End & Mobile Development Bootcamp',},
 ];
