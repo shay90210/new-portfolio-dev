@@ -23,11 +23,11 @@ const Footer = () => {
           </LinkItem>
         </LinkColumn>
       </LinkList>
-      {/*<SocialIconsContainer>
+      <SocialIconsContainer>
         <CompanyContainer>
           <Slogan>theGlamTechie &copy; 2022</Slogan>
         </CompanyContainer>
-          <SocialContainer>
+          {/*<SocialContainer>
             <SocialIcons href='https://github.com/shay90210'>
               <AiFillGithub size='3rem' />
             </SocialIcons>
@@ -40,8 +40,8 @@ const Footer = () => {
             <SocialIcons href='https://medium.com/@theGlamTechie_1991'>
               <AiFillMediumCircle size='3rem' />
             </SocialIcons>
-          </SocialContainer>
-        </SocialIconsContainer>*/}
+          </SocialContainer>*/}
+      </SocialIconsContainer>
     </FooterWrapper>
   );
 };
