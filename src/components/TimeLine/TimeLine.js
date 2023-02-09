@@ -72,6 +72,7 @@ const Timeline = () => {
                 onClick={(e) => handleClick(e, index)}
               >
                 <CarouselItemTitle>
+                  {item.month}
                   {item.year}
                     <CarouselItemImg
                       width="208"
