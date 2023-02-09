@@ -46,21 +46,20 @@ const Timeline = () => {
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
         <p>
-          I developed a passion to learn how to code sitting in a graduate-level
-          technical writing class. While I loved my career as an educator and healthcare
-          worker, I wanted to try something new that mentally challenged me and peaked my
-          creativity. Programming was the answer. So, I started to build simple websites
-          and learn the basics from tutorials on YouTube, LinkedIn Learning, and Udemy.
-        </p> 
+            A passionate and driven Help Desk Support Specialist, learning the ins and outs
+            of the tech industry. Through my coding boot camp and self-motivation, I have
+            learned HTML, CSS, and JavaScript. I am currently learning UI frameworks and
+            libraries along with the MERN stack as a Nucamp student.
+        </p>
           <br />
         <p>
-          My passion pushed me to enroll in Nucamp's 11-month software engineering
-          program to challenge myself and develop projects that improves my abilities as a
-          web and mobile app developer. My long-term goals are to achieve the necessary
-          skills that will compel me to apply for a future Senior Front End Developer
-          position. Until then, my short-term goal is to obtain an apprenticeship or
-          junior-level developer position to continue building my skills.
-        </p>      
+            I am actively searching for an entry-level/Junior-level Front End Developer
+            position. I am also willing to apply for entry-level implementation manager
+            positions and open to cybersecurity positions that focuses on development. I am
+            eager to learn, possess leadership capabilities and other transferable skills. I also
+            have a personality and smile that anyone would love. Connect with me or send
+            me a message regarding any opportunities available.
+        </p>
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
