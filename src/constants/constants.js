@@ -19,7 +19,7 @@ export const projects = [
   },*/
   {
     title: "E-Commerce Bootstrap Site",
-    description: "This project is my first deployed website called The Teachers' Club. It is an e-commerce website that sells teacher apparel. The project is primarily coded using JavaScript functions to increment/decrement items, remove items, and hold items in a basket when the page refreshes. \nWhile I have only been coding for 9 months before deploying this site, I still believed that it had potential for improvement such making the website more responsive to other designs, adding an authentication for login users/repeat customers, and adding a payment feature. This project will be revamped using JavaScript and React.",
+    description: "This project is my first deployed website called The Teachers' Club. It is an e-commerce website that sells teacher apparel. The project is primarily coded using JavaScript functions to increment/decrement items, remove items, and hold items in a basket when the page refreshes. <br/> While I have only been coding for 9 months before deploying this site, I still believed that it had potential for improvement such making the website more responsive to other designs, adding an authentication for login users/repeat customers, and adding a payment feature. This project will be revamped using JavaScript and React.",
     image: '/images/teachersclub1.png',
     tags: ['JavaScript', 'Bootstrap', 'SASS'],
     source: 'https://shay90210.github.io/teachers-club/',
@@ -31,7 +31,7 @@ export const projects = [
 export const TimeLineData = [
   { year: 2015, text: 'May - Graduated from Marquette University with a Bachelor of Science Degree in Education'},
   { year: 2022, text: 'January - Started my tech journey', },
-  { year: 2022, text: 'June - Completed Web Development Fundamentals Bootcamp'},
+  { year: 2022, text: 'June - Completed Nucamp Web Development Fundamentals Program'},
   { year: 2022, text: 'September - Deployed my first website'},
-  { year: 2022, text: 'November - Completed Front-End & Mobile Development Bootcamp',},
+  { year: 2022, text: 'November - Completed Nucamp Front-End & Mobile Development Program',},
 ];
