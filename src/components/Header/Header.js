@@ -35,14 +35,14 @@ const Header = () =>  (
       <SocialIcons href='https://github.com/shay90210'>
         <AiFillGithub size='3rem' />
       </SocialIcons>
-      <SocialIcons href='https://www.linkedin.com/in/shannontatibentley/'>
-        <AiFillLinkedin size='3rem' />
+      <SocialIcons href='https://medium.com/@theGlamTechie_1991'>
+        <AiFillMediumCircle size='3rem' />
       </SocialIcons>
       <SocialIcons href='https://twitter.com/ShannonTatianna'>
         <AiFillTwitterCircle size='3rem' />
       </SocialIcons>
-      <SocialIcons href='https://medium.com/@theGlamTechie_1991'>
-        <AiFillMediumCircle size='3rem' />
+      <SocialIcons href='https://www.linkedin.com/in/shannontatibentley/'>
+        <AiFillLinkedin size='3rem' />
       </SocialIcons>
     </Div3>
   </Container>
