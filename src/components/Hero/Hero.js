@@ -19,7 +19,7 @@ const Hero = () => (
           technologies. I am constantly seeking new opportunities to expand my knowledge
           and contribute to the tech community.
       </SectionText>
-      <Button onClick={() => window.location = 'file:///C:/Users/bentl/OneDrive/Documents/BreeZip/ShannonBentley-Resume%20(1)%20conv.html'}>Resume</Button>
+      <Button onClick={() => window.location = 'https://docs.google.com/document/d/1zoYjCT-DwCfqZ6cZH2STGhL-uGPWHAlBu6rrS4LBBWA/edit'}>Resume</Button>
     </LeftSection>
   </Section>
 );
