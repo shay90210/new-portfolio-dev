@@ -28,7 +28,17 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node
+            Python | Node
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <DiFirebase size='3rem' />
+        <ListContainer>
+          <ListTitle>Databases</ListTitle>
+          <ListParagraph>
+            Experience with <br />
+            Postgres SQL 
           </ListParagraph>
         </ListContainer>
       </ListItem>

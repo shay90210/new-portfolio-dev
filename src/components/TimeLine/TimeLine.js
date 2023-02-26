@@ -50,7 +50,7 @@ const Timeline = () => {
             continuously learning about the intricacies of the industry. My coding boot camp
             and self-motivation have enabled me to acquire skills in HTML, CSS, and
             JavaScript. I am currently expanding my knowledge of the MERN stack along with
-            Python, SQL databases, DSA, and SLDC.
+            Python, SQL databases, DSA, and SDLC.
         </p>
           <br />
         <p>
