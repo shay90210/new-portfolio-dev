@@ -18,7 +18,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            React.js | JavaScript | HTML | CSS | SASS & Bootstrap
+            React.js | JavaScript | HTML | CSS
           </ListParagraph>
         </ListContainer>
       </ListItem>
