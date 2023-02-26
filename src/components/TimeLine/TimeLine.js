@@ -46,11 +46,10 @@ const Timeline = () => {
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
         <p>
-            As a Help Desk Support Specialist with a passion for technology, I am
-            continuously learning about the intricacies of the industry. My coding boot camp
-            and self-motivation have enabled me to acquire skills in HTML, CSS, and
-            JavaScript. I am currently expanding my knowledge of the MERN stack along with
-            Python, SQL databases, DSA, and SDLC.
+            As a Help Desk Support Specialist passionate about technology, I continuously
+            learn about the industry's intricacies. My coding boot camp and self-motivation
+            have enabled me to acquire HTML, CSS, and JavaScript skills. I am expanding my
+            MERN stack knowledge along with Python, SQL databases, DSA, and SDLC.
         </p>
           <br />
         <p>
