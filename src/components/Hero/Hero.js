@@ -12,7 +12,12 @@ const Hero = () => (
         your friendly <i>web developer</i>
       </SectionTitle>
       <SectionText>
-        The purpose of theGlamTechie is to present my learned skills in JavaScript and React to employers and to educate newbies like me on how to get into tech by spreading my joys of learning technology while building functional apps.      </SectionText>
+          I created theGlamTechie to showcase my proficiency in JavaScript and React and
+          to inspire other beginners to pursue a career in tech. As a self-taught software
+          engineer, I understand the challenges that come with starting from scratch.
+          That's why I want to share my passion for learning and building functional apps
+          to help others gain the confidence they need to succeed in this industry.
+      </SectionText>
       <Button onClick={() => window.location = 'https://docs.google.com/document/d/1zoYjCT-DwCfqZ6cZH2STGhL-uGPWHAlBu6rrS4LBBWA/edit'}>Resume</Button>
     </LeftSection>
   </Section>
