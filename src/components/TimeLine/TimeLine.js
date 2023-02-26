@@ -46,19 +46,19 @@ const Timeline = () => {
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
         <p>
-            A passionate and driven Help Desk Support Specialist, learning the ins and outs
-            of the tech industry. Through my coding boot camp and self-motivation, I have
-            learned HTML, CSS, and JavaScript. I am currently learning UI frameworks and
-            libraries along with the MERN stack as a Nucamp student.
+            As a Help Desk Support Specialist with a passion for technology, I am
+            continuously learning about the intricacies of the industry. My coding boot camp
+            and self-motivation have enabled me to acquire skills in HTML, CSS, and
+            JavaScript. I am currently expanding my knowledge of the MERN stack along with
+            Python, SQL databases, DSA, and SLDC.
         </p>
           <br />
         <p>
-            I am actively searching for an entry-level/Junior-level Front End Developer
-            position. I am also willing to apply for entry-level implementation manager
-            positions and open to cybersecurity positions that focuses on development. I am
-            eager to learn, possess leadership capabilities and other transferable skills. I also
-            have a personality and smile that anyone would love. Connect with me or send
-            me a message regarding any opportunities available.
+            My interest in software engineering extends to cybersecurity, and I am exploring
+            opportunities in this area to understand how software can be developed and
+            secured to mitigate potential cyber threats. By combining my knowledge of
+            software engineering with cybersecurity, I aim to create innovative and secure
+            applications that will benefit both users and organizations.
         </p>
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
