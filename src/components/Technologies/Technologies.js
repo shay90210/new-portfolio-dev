@@ -33,7 +33,7 @@ const Technologies = () =>  (
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiFirebase size='3rem' />
+        <DiZend size='3rem' />
         <ListContainer>
           <ListTitle>Databases</ListTitle>
           <ListParagraph>
