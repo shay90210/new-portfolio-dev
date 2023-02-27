@@ -49,7 +49,8 @@ const Timeline = () => {
             As a Help Desk Support Specialist passionate about technology, I continuously
             learn about the industry's intricacies. My coding boot camp and self-motivation
             have enabled me to acquire HTML, CSS, and JavaScript skills. I am expanding my
-            MERN stack knowledge along with Python, SQL databases, DSA, and SDLC.
+            MERN stack knowledge along with Python, SQL databases, data structures, and
+            software development life cycle.
         </p>
           <br />
         <p>
