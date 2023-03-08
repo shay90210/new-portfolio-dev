@@ -11,7 +11,7 @@ export const projects = [
   },*/
   {
     title: "React && Typescript E-Commerce Application",
-    description: "I completed my React project using Typescript and Redux. In my last e-commerce project, I went through significant errors that were unnoticeable. I couldn't define where the errors came from after completing an entire project, yet my project would not deploy on Netlify. To rectify the intricacies that I faced and ensure a successful project, I redid this project using only React and Typescript to ensure that each step that I code improves my editor support and catches mistakes in my editor before any runtime for testing. This project features adding items to cart, incrementing/decrementing items, removing items and a cart summary on an offcanvas component that shows the price, total, and # of items in the cart. ",
+    description: "In my last e-commerce project, I went through significant errors that were unnoticeable. To rectify the intricacies that I faced and ensure a more successful project, I redid this project using React and Typescript to ensure that each step that I code improves my editor support and catches mistakes before any runtime for testing. This project features adding items to cart, incrementing/decrementing items, removing items and a cart summary on an offcanvas component that shows the price, total, and # of items in the cart. ",
     image: '/images/Untitled design (14).png',
     tags: ['React', 'TypeScript'],
     source: 'https://ephemeral-pothos-06df43.netlify.app/',
