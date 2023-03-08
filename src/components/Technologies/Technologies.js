@@ -1,15 +1,15 @@
 import React from 'react';
-import { DiFirebase, DiReact, DiZend } from 'react-icons/di';
+import { DiFirebase, DiReact, DiDatabase } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
-const Technologies = () =>  (
+const Technologies = () => (
   <Section id='tech'>
     <SectionDivider />
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with primarily frontend development MERN stack and web development fundamentals.
+      I've worked with primarily frontend development MERN stack and web development fundamentals. I am currently acquiring more skills in Python and other backend languages.
     </SectionText>
     <List>
       <ListItem>
@@ -18,7 +18,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            HTML | CSS | JavaScript
+            HTML | CSS | JavaScript | React
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -33,12 +33,12 @@ const Technologies = () =>  (
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiZend size='3rem' />
+        <DiDatabase size='3rem' />
         <ListContainer>
           <ListTitle>Databases</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Postgres SQL 
+            SQL | MongoDB
           </ListParagraph>
         </ListContainer>
       </ListItem>

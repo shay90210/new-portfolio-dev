@@ -10,9 +10,9 @@ const Timeline = () => {
   const [activeItem, setActiveItem] = useState(0);
   const carouselRef = useRef();
 
-   const scroll = (node, left) => {
-     return node.scrollTo({ left, behavior: 'smooth' });
-   }
+  const scroll = (node, left) => {
+    return node.scrollTo({ left, behavior: 'smooth' });
+  }
 
   const handleClick = (e, i) => {
     e.preventDefault();
@@ -32,13 +32,13 @@ const Timeline = () => {
 
   // // snap back to beginning of scroll when window is resized
   // // avoids a bug where content is covered up if coming from smaller screen
-   useEffect(() => {
-     const handleResize = () => {
-       scroll(carouselRef.current, 0);
-     }
+  useEffect(() => {
+    const handleResize = () => {
+      scroll(carouselRef.current, 0);
+    }
 
-     window.addEventListener('resize', handleResize);
-   }, []);
+    window.addEventListener('resize', handleResize);
+  }, []);
 
   return (
     <Section id='about'>
@@ -46,19 +46,18 @@ const Timeline = () => {
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
         <p>
-            As a Help Desk Support Specialist passionate about technology, I continuously
-            learn about the industry's intricacies. My coding boot camp and self-motivation
-            have enabled me to acquire HTML, CSS, and JavaScript skills. I am expanding my
-            MERN stack knowledge along with Python, SQL databases, data structures, and
-            software development life cycle.
+          As a Help Desk Support Specialist passionate about technology, I continuously
+          learn about the industry's intricacies. My coding boot camp and self-motivation
+          have enabled me to acquire HTML, CSS, and JavaScript skills. I am expanding my
+          MERN stack knowledge along with Python, SQL databases, data structures & algorithms, and the software development life cycle.
         </p>
-          <br />
+        <br />
         <p>
-            My interest in software engineering extends to cybersecurity, and I am exploring
-            opportunities in this area to understand how software can be developed and
-            secured to mitigate potential cyber threats. By combining my knowledge of
-            software engineering with cybersecurity, I aim to create innovative and secure
-            applications that will benefit both users and organizations.
+          My interest in software engineering extends to cybersecurity, and I am exploring
+          opportunities in this area to understand how software can be developed and
+          secured to mitigate potential cyber threats. By combining my knowledge of
+          software engineering with cybersecurity, I aim to create innovative and secure
+          applications that will benefit both users and organizations.
         </p>
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
@@ -73,36 +72,36 @@ const Timeline = () => {
               >
                 <CarouselItemTitle>
                   {item.year}
-                    <CarouselItemImg
-                      width="208"
-                      height="6"
-                      viewBox="0 0 208 6"
-                      fill="none"
-                      xmlns="http://www.w3.org/2000/svg">
-                      <path
-                        fill-rule="evenodd"
-                        clip-rule="evenodd"
-                        d="M2.5 5.5C3.88071 5.5 5 4.38071 5 3V3.5L208 3.50002V2.50002L5 2.5V3C5 1.61929 3.88071 0.5 2.5 0.5C1.11929 0.5 0 1.61929 0 3C0 4.38071 1.11929 5.5 2.5 5.5Z"
-                        fill="url(#paint0_linear)"
-                        fill-opacity="0.33"
-                      />
-                      <defs>
-                        <linearGradient
-                          id="paint0_linear"
-                          x1="-4.30412e-10"
-                          y1="0.5"
-                          x2="208"
-                          y2="0.500295"
-                          gradientUnits="userSpaceOnUse">
-                          <stop stop-color="white" />
-                          <stop
-                            offset="0.79478"
-                            stop-color="white"
-                            stop-opacity="0"
-                          />
-                        </linearGradient>
-                      </defs>
-                    </CarouselItemImg>
+                  <CarouselItemImg
+                    width="208"
+                    height="6"
+                    viewBox="0 0 208 6"
+                    fill="none"
+                    xmlns="http://www.w3.org/2000/svg">
+                    <path
+                      fill-rule="evenodd"
+                      clip-rule="evenodd"
+                      d="M2.5 5.5C3.88071 5.5 5 4.38071 5 3V3.5L208 3.50002V2.50002L5 2.5V3C5 1.61929 3.88071 0.5 2.5 0.5C1.11929 0.5 0 1.61929 0 3C0 4.38071 1.11929 5.5 2.5 5.5Z"
+                      fill="url(#paint0_linear)"
+                      fill-opacity="0.33"
+                    />
+                    <defs>
+                      <linearGradient
+                        id="paint0_linear"
+                        x1="-4.30412e-10"
+                        y1="0.5"
+                        x2="208"
+                        y2="0.500295"
+                        gradientUnits="userSpaceOnUse">
+                        <stop stop-color="white" />
+                        <stop
+                          offset="0.79478"
+                          stop-color="white"
+                          stop-opacity="0"
+                        />
+                      </linearGradient>
+                    </defs>
+                  </CarouselItemImg>
                 </CarouselItemTitle>
                 <CarouselItemText>{item.text}</CarouselItemText>
               </CarouselItem>
