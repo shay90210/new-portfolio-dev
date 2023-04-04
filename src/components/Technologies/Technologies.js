@@ -9,7 +9,7 @@ const Technologies = () => (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked primarily with the MERN stack, HTML, and CSS. I am currently acquiring backend skills with Python and database skills with SQL.
+      I've worked primarily with the MERN stack, HTML, and CSS. I am currently acquiring backend skills with Python and relational database skills with SQL.
     </SectionText>
     <List>
       <ListItem>
@@ -28,7 +28,7 @@ const Technologies = () => (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Python | Node
+            Python
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -38,7 +38,7 @@ const Technologies = () => (
           <ListTitle>Databases</ListTitle>
           <ListParagraph>
             Experience with <br />
-            SQL | MongoDB
+            SQL | NoSQL
           </ListParagraph>
         </ListContainer>
       </ListItem>
