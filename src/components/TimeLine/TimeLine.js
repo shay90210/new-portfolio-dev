@@ -53,11 +53,10 @@ const Timeline = () => {
         </p>
         <br />
         <p>
-          My interest in software engineering extends to cybersecurity, and I am exploring
-          opportunities in this area to understand how software can be developed and
-          secured to mitigate potential cyber threats. By combining my knowledge of
-          software engineering with cybersecurity, I aim to create innovative and secure
-          applications that will benefit both users and organizations.
+          I am interested in combining software engineering with cybersecurity,
+          specifically in the areas of application security and DevOps. My goal is to
+          develop innovative and secure applications that mitigate potential cyber
+          threats, benefiting both users and organizations.
         </p>
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
