@@ -21,7 +21,7 @@ export const projects = [
   {
     title: "JavaScript && BootStrap E-Commerce Website",
     description: "I created The Teachers' Club, an e-commerce website that sells teacher apparel, as my first deployed website. The website uses JavaScript functions to increment/decrement items, remove items, and hold items in a basket when the page refreshes. While I recognize that there is potential for improvement, such as adding an authentication for login users/repeat customers and a payment feature, I am proud of what I accomplished with just 9 months of coding experience. I am currently revamping the project using JavaScript and React to make the website more responsive and efficient.",
-    image: 'images/ Untitled design(16).png',
+    image: 'images/ Untitled design (16).png',
     tags: ['JavaScript', 'BootStrap'],
     source: 'https://shay90210.github.io/teachers-club/',
     visit: 'https://github.com/shay90210/teachers-club',
