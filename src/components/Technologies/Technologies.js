@@ -17,7 +17,7 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            MERN Stack | TypeScript | JavaScript | HTML | CSS
+            TypeScript | JavaScript | HTML | CSS | MongoDB | Express | React | React Native | Node.js
           </ListParagraph>
         </ListContainer>
       </ListItem>
