@@ -13,7 +13,7 @@ const Hero = () => (
       </SectionTitle>
       <SectionText>
         theGlamTechie is my portfolio that showcases my programming skills and inspires
-        transitioners to pursue tech careers. Each project represents my ability to learn
+        career transitioners to pursue tech careers. Each project represents my ability to learn
         and apply new technologies, demonstrating my dedication to software engineering.
         I am committed to ongoing learning and contributing to the tech community.
       </SectionText>
