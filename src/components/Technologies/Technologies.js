@@ -17,7 +17,7 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            TypeScript | JavaScript | HTML | CSS | MongoDB | Express | React | React Native | Node.js
+            TypeScript | JavaScript | HTML | CSS | React | React Native
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -26,7 +26,7 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Python
+            Python | Node.js | Express
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -35,7 +35,7 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Databases</ListTitle>
           <ListParagraph>
-            SQL | NoSQL
+            SQL | NoSQL | PostgresQL | MongoDB
           </ListParagraph>
         </ListContainer>
       </ListItem>
