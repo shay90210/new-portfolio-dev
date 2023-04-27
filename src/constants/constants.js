@@ -35,5 +35,6 @@ export const TimeLineData = [
   { year: 2022, text: 'June - Completed Nucamp Web Development Fundamentals Program' },
   { year: 2022, text: 'September - Deployed my first website coded in HTML, CSS, & JavaScript' },
   { year: 2022, text: 'November - Completed Nucamp Front-End & Mobile Development Program', },
-  { year: 2023, text: 'March - Deployed my first application coded in React and TypeScript' }
+  { year: 2023, text: 'March - Deployed my first application coded in React and TypeScript' },
+  { year: 2023, text: 'April - Completed the Cyber Security Bootcamp for Women with International Cyber Threat Task Force (ICTTF)' }
 ];
