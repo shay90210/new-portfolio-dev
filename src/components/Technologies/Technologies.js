@@ -9,7 +9,7 @@ const Technologies = () => (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked primarily with the MERN stack, HTML, and CSS. I am currently acquiring backend skills with Python and relational database skills with SQL.
+      Below are all of the skills that I have knowledge based on personal projects and courses.
     </SectionText>
     <List>
       <ListItem>
@@ -17,7 +17,6 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experience with <br />
             MERN Stack | TypeScript | JavaScript | HTML | CSS
           </ListParagraph>
         </ListContainer>
@@ -27,7 +26,6 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Experience with <br />
             Python
           </ListParagraph>
         </ListContainer>
@@ -37,7 +35,6 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Databases</ListTitle>
           <ListParagraph>
-            Experience with <br />
             SQL | NoSQL
           </ListParagraph>
         </ListContainer>

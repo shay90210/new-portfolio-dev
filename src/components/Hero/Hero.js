@@ -9,11 +9,11 @@ const Hero = () => (
     <LeftSection>
       <SectionTitle main center>
         Hi! I'm Shannon Bentley, <br />
-        your friendly <i>software engineer</i>
+        your neighborhood <i>software engineer</i>
       </SectionTitle>
       <SectionText>
-        TheGlamTechie is my portfolio that showcases my programming skills and inspires
-        beginners to pursue tech careers. Each project represents my ability to learn
+        theGlamTechie is my portfolio that showcases my programming skills and inspires
+        transitioners to pursue tech careers. Each project represents my ability to learn
         and apply new technologies, demonstrating my dedication to software engineering.
         I am committed to ongoing learning and contributing to the tech community.
       </SectionText>

@@ -48,15 +48,12 @@ const Timeline = () => {
         <p>
           As a Help Desk Support Specialist passionate about technology, I continuously
           learn about the industry's intricacies. My coding boot camp and self-motivation
-          have enabled me to acquire HTML, CSS, and JavaScript skills. I am expanding my
-          MERN stack knowledge along with Python, SQL databases, data structures & algorithms, and the software development life cycle.
-        </p>
-        <br />
-        <p>
-          I am interested in combining software engineering with cybersecurity,
-          specifically in the areas of application security and DevOps. My goal is to
-          develop innovative and secure applications that mitigate potential cyber
-          threats, benefiting both users and organizations.
+          have enabled me to acquire the necessary skills in coding languages and
+          databases to succeed in my tech career. I am interested in combining software
+          engineering with cybersecurity, specifically in the areas of quality assurance,
+          application security, and DevOps. My goal is to develop innovative and secure
+          applications that mitigate potential cyber threats, benefiting both users and
+          organizations.
         </p>
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
