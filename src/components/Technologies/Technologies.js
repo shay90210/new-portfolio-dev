@@ -26,7 +26,7 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Python | Ruby
+            Ruby
           </ListParagraph>
         </ListContainer>
       </ListItem>
