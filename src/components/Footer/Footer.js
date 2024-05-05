@@ -25,7 +25,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Powered by theGlamTechie &copy; 2023</Slogan>
+          <Slogan>Powered by theGlamTechie &copy; 2024</Slogan>
         </CompanyContainer>
         {/*<SocialContainer>
             <SocialIcons href='https://github.com/shay90210'>
