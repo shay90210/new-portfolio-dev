@@ -31,11 +31,11 @@ export const projects = [
 
 export const TimeLineData = [
   { year: 2015, text: 'May - Graduated from Marquette University with a Bachelor of Science Degree in Education' },
-  { year: 2022, text: 'January - Started my tech journey', },
-  { year: 2022, text: 'June - Completed Nucamp Web Development Fundamentals Program' },
-  { year: 2022, text: 'September - Deployed my first website coded in HTML, CSS, & JavaScript' },
-  { year: 2022, text: 'November - Completed Nucamp Front-End & Mobile Development Program', },
-  { year: 2023, text: 'March - Deployed my first application coded in React and TypeScript' },
-  { year: 2023, text: 'April - Completed the Cyber Security Bootcamp for Women with International Cyber Threat Task Force (ICTTF)' },
+  { year: 2022, text: 'January - Began tech journey', },
+  { year: 2022, text: 'June - Obtained Certificate of Completion for Nucamp Web Development Fundamentals Program' },
+  { year: 2022, text: 'September - Deployed first website coded in HTML, CSS, & JavaScript' },
+  { year: 2022, text: 'November - Obtained Certificate of Completion for Nucamp Front-End & Mobile Development Program', },
+  { year: 2023, text: 'March - Deployed first application coded in React and TypeScript' },
+  { year: 2023, text: 'April - Obtained the Cyber Security Bootcamp for Women Certificate with International Cyber Threat Task Force (ICTTF)' },
   { year: 2024, text: 'January - Accepted invite to Discovery Partners Institute’s Tech Ready Pre-Apprenticeship Program'},
 ];
