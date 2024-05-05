@@ -30,15 +30,6 @@ const Technologies = () => (
           </ListParagraph>
         </ListContainer>
       </ListItem>
-      <ListItem>
-        <DiDatabase size='3rem' />
-        <ListContainer>
-          <ListTitle> </ListTitle>
-          <ListParagraph>
-            
-          </ListParagraph>
-        </ListContainer>
-      </ListItem>
     </List>
   </Section>
 );
