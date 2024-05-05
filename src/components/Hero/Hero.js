@@ -9,7 +9,7 @@ const Hero = () => (
     <LeftSection>
       <SectionTitle main center>
         Hi! I'm Shannon Bentley, <br />
-        your neighborhood <i>software engineer</i>
+        your neighborhood <i>software developer</i>
       </SectionTitle>
       <SectionText>
         theGlamTechie is my portfolio that showcases my programming skills and inspires
