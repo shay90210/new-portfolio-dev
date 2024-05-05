@@ -46,12 +46,12 @@ const Timeline = () => {
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
         <p>
-          As a Help Desk Support Specialist passionate about technology, I continuously
-          learn about the industry's intricacies. My coding boot camp and self-motivation
-          have enabled me to acquire the necessary skills in coding languages and
-          databases to succeed in my tech career. I am interested in combining software
-          engineering with cybersecurity, specifically in the areas of quality assurance,
-          application security, and DevOps. My goal is to develop innovative and secure
+          As a Support Tech passionate about technology, I continuously
+          learn about the industry's intricacies. My boot camp experience and self-motivation
+          have enabled me to acquire the necessary skills in coding languages
+          to succeed in my tech career. I am interested in combining software
+          engineering with cybersecurity, specifically in the areas of
+          application security and DevOps. My goal is to develop innovative and secure
           applications that mitigate potential cyber threats, benefiting both users and
           organizations.
         </p>
