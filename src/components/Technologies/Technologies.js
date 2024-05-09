@@ -1,5 +1,5 @@
 import React from 'react';
-import { DiPython, DiJsBadge, DiDatabase } from 'react-icons/di';
+import { DiPython, DiJsBadge, DiDatabase, DiGithub, DiGit } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -27,6 +27,15 @@ const Technologies = () => (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Ruby
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <DiGit size='3rem' />
+        <ListContainer>
+          <ListTitle>Other</ListTitle>
+          <ListParagraph>
+            Git | GitHub | Node Package Manager | Data structures | Algorithms | Testing
           </ListParagraph>
         </ListContainer>
       </ListItem>
