@@ -36,7 +36,7 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Soft Skills</ListTitle>
           <ListParagraph>
-            Problem-Solving | Analytical | Communication | Teamwork | Time Management | Lifelong Learner
+            Problem-Solver | Analytical | Communicator | Team Player | Lifelong Learner
           </ListParagraph>
         </ListContainer>
       </ListItem>
