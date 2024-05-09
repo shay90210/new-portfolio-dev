@@ -43,9 +43,9 @@ const Technologies = () => (
       <ListItem>
         <DiGit size='3rem' />
         <ListContainer>
-          <ListTitle>Other</ListTitle>
+          <ListTitle>Version Control</ListTitle>
           <ListParagraph>
-            Git | GitHub | Node Package Manager | Testing
+            Git | GitHub
           </ListParagraph>
         </ListContainer>
       </ListItem>
