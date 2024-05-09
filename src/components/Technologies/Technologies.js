@@ -27,7 +27,7 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Ruby
+            Ruby | Data structures | Algorithms
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -45,7 +45,7 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Other</ListTitle>
           <ListParagraph>
-            Git | GitHub | Node Package Manager | Data structures | Algorithms | Testing
+            Git | GitHub | Node Package Manager | Testing
           </ListParagraph>
         </ListContainer>
       </ListItem>
