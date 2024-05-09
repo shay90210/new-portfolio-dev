@@ -51,6 +51,7 @@ const Timeline = () => {
           have enabled me to acquire the necessary skills in coding languages
           to succeed in my tech career. 
         </p>
+        <br/>
         <p>
           I am interested in combining software
           engineering with cybersecurity, specifically in the areas of
