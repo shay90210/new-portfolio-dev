@@ -49,6 +49,15 @@ const Technologies = () => (
           </ListParagraph>
         </ListContainer>
       </ListItem>
+      <ListItem>
+        <DiGit size='3rem' />
+        <ListContainer>
+          <ListTitle>Other</ListTitle>
+          <ListParagraph>
+            Testing | Code Documentation
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
     </List>
   </Section>
 );
