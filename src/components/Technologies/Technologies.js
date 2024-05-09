@@ -18,7 +18,7 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            JavaScript | HTML | CSS
+            HTML | CSS | JavaScript
           </ListParagraph>
         </ListContainer>
       </ListItem>
