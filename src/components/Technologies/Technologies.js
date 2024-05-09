@@ -2,6 +2,7 @@ import React from 'react';
 import { DiPython, DiJsBadge, DiDatabase, DiGithub, DiGit } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
+import { AiFillSlackCircle } from 'react-icons/ai';
 
 const Technologies = () => (
   <Section id='tech'>
@@ -27,6 +28,15 @@ const Technologies = () => (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Ruby
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <AiFillSlackCircle size='3rem' />
+        <ListContainer>
+          <ListTitle>Soft Skills</ListTitle>
+          <ListParagraph>
+            Problem-Solving | Analytical Thinking | Communication | Teamwork | Time Management | Lifelong Learner
           </ListParagraph>
         </ListContainer>
       </ListItem>
