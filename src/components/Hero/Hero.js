@@ -17,7 +17,7 @@ const Hero = () => (
         and apply new technologies, demonstrating my dedication to software engineering.
         I am committed to ongoing learning and contributing to the tech community.
       </SectionText>
-      <Button onClick={() => window.location = 'https://docs.google.com/document/d/1zoYjCT-DwCfqZ6cZH2STGhL-uGPWHAlBu6rrS4LBBWA/edit'}>Resume</Button>
+      <Button onClick={() => window.location = 'https://docs.google.com/document/d/1K94bmv2-H0mBWwM7dl7wZnVX_10qsVFISD9co4rP3FM/edit'}>Resume</Button>
     </LeftSection>
   </Section>
 );
